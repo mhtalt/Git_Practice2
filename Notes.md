@@ -2,4 +2,4 @@
 
 This project consists of 1 package and 2 java classes.
 
-'Hello World' is written on TaseCase001 class. 
+'Hello World' is written on 'TaseCase001' class. 
