@@ -1,0 +1,2 @@
+Thisi a new file added from github.com directly.
+And today I wiil learn how to add a file from github.com directly
